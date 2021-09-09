@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Lista de Domínios
+dominio.txt
+
+#Lista de Apis
+apis.txt
+
+test/
