@@ -1,2 +1,2 @@
 # gameflix
-Recriando a interface do Netflix 
+Interface inspirada no netflix

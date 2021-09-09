@@ -1,0 +1,27 @@
+{
+  "name": "gameflix",
+  "version": "1.0.0",
+  "description": "\"Uma plataforma para assistir gameplay inspirada na interface do netflix.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1001Josias/gameflix.git"
+  },
+  "keywords": [
+    "[gameflix",
+    "netflix",
+    "gameplay]"
+  ],
+  "author": "Josias Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1001Josias/gameflix/issues"
+  },
+  "homepage": "https://github.com/1001Josias/gameflix#readme",
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}

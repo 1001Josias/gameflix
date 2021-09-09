@@ -1,0 +1,94 @@
+{
+   "PS2":[
+      {
+         "id":111,
+         "name":"PRO EVOLUTION SOCCER 2",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/18694-1.jpg",
+         "description": "Pro Evolution Soccer 2 é o segundo jogo da série Pro Evolution Soccer. A versão japonesa foi sucedida por uma atualização: Winning Eleven 6 Final Evolution, trazendo ajustes e melhorias.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/18694-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PL0yZ5jb_rYE3owtLxa-J4_rF0MDf9619q",
+         "trailer":"https://www.youtube.com/embed/9FbXxa8E8fg"
+      },
+      {
+         "id":112,
+         "name":"GRAND THEFT AUTO SAN ANDREAS",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/790-1.jpg",
+         "description":"Grand Theft Auto: San Andreas é um jogo eletrônico de ação-aventura desenvolvido pela Rockstar North e publicado pela Rockstar Games. É o quinto título principal da série Grand Theft Auto e foi lançado em outubro de 2004 para PlayStation 2 e em junho de 2005 para Xbox e Microsoft",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/790-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLmLWmTQdLmngVmKXvWpNqHqfopK5ZR0IJ",
+         "trailer":"https://www.youtube.com/embed/TTB6eEHCAko"
+      },
+      {
+         "id":114,
+         "name":"RESIDENT EVIL 4",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/7801-1.jpg",
+         "description": "Resident Evil 4, conhecido no Japão como Biohazard 4, é um jogo eletrônico de survival horror e tiro em terceira pessoa desenvolvido e publicado pela Capcom, lançado originalmente para o Nintendo GameCube em 2005. É o sexto jogo principal da franquia Resident Evil.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/7801-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PL9GTcZnWIYxqRJ1lm9ORhM0yNRFiavyHu",
+         "trailer":"https://www.youtube.com/embed/zJPFhlNbwbQ"
+      },
+      {
+         "id":115,
+         "name":"50 CENT BULLETPROOF",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/5857-1.jpg",
+         "description": "50 Cent Bulletproof é um Jogo de videogame lançado em 21 de novembro de 2005 para as plataformas PlayStation 2 e Xbox. No ano de 2006 foi lançado uma versão deste mesmo jogo para o console portátil PSP da Sony, com o título de 50 Cent: Bulletproof G Unit Edition.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/5857-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PL-0Zm2zo61NUD_8cnQNj81gx4X8PyohjY",
+         "trailer":"https://www.youtube.com/embed/eVQz3CbTeBg"
+      },
+      {
+         "id":116,
+         "name":"TEKKEN 5",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/3753-2.jpg",
+         "description": "Tekken 5 é um jogo de luta desenvolvido e publicado pela Namco em 2004 para Arcades, e em 2005 para PlayStation 2. É o sexto game da série Tekken, marcando o aniversário de dez anos desta última.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/3753-2.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLMHR2xnx8VCqt7IxsE6Jxe3mgdZYfFR22",
+         "trailer":"https://www.youtube.com/embed/TuPZBD_78EI"
+      },
+      {
+         "id":117,
+         "name":"MORTAL KOMBAT ARMAGEDDON",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/4223-1.png",
+         "description": "Mortal Kombat Armageddon é o sétimo título da série de jogos eletrônicos de luta, Mortal Kombat, criada por Ed Boon e John Tobias. O jogo foi lançado em 11 de outubro de 2006 para PlayStation 2 e Xbox e em 29 de maio de 2007 para Wii. Cronologicamente, é o último capítulo do enredo original de Mortal Kombat.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/4223-2.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLXmZ73FwBjJueBV4XInGDdlBO29FNWNaQ",
+         "trailer":"https://www.youtube.com/embed/yNmg66B-SSQ"
+      },
+      {
+         "id":118,
+         "name":"NEED FOR SPEED UNDERGROUND 2",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/4813-1.jpg",
+         "description": "Need For Speed Underground 2 é um videogame de corrida arcade da série Need for Speed e o oitavo jogo da franquia lançado em 2004 pela e sequência direta de Need For Speed Underground.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/4813-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLbhLDw5PxeGdzIMUXSZevyltsugD9sc3S",
+         "trailer":"https://www.youtube.com/embed/63l0EOk_wHQ"
+      },
+      {
+         "id":119,
+         "name":"NEED FOR SPEED CARBON",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/4207-1.jpg",
+         "description": "Need for Speed Carbon é um jogo eletrônico de corrida da franquia Need for Speed lançado em 2006 e produzido pelos estúdios EA Canada e EA Black",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/4207-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLbhLDw5PxeGdSHaqFovKgZXKIqrT7s4sY",
+         "trailer":"https://www.youtube.com/embed/Gy27ZSWB1EE"
+      },
+      {
+         "id":120,
+         "name":"GOD OF WAR II",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/88-1.jpg",
+         "description": "God of War II é um jogo eletrônico de ação-aventura e hack and slash desenvolvido pela Santa Monica Studio e publicado pela Sony Computer Entertainment.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/88-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLH9fqbYeMD3MZl3Fs9pViPTqEBNo4WBGv",
+         "trailer":"https://www.youtube.com/embed/oe0OmX9hINA"
+      },
+      {
+         "id":113,
+         "name":"BULLY",
+         "image":"https://cdn.thegamesdb.net/images/original/boxart/front/3931-1.jpg",
+         "description": "Bully é um jogo eletrônico de ação-aventura desenvolvido pela Rockstar Vancouver e publicado pela Rockstar Games. Foi lançado em 17 de outubro de 2006 para PlayStation 2.",
+         "banner":"https://cdn.thegamesdb.net/images/original/fanart/3931-1.jpg",
+         "playlist":"https://www.youtube.com/embed/videoseries?list=PLgYsScxNSFalwvyTr1RMNmInhZRnKAGQL",
+         "trailer":"https://www.youtube.com/embed/88KNf0MtU14"
+      }
+   ]
+}
