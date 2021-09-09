@@ -1,2 +1,2 @@
 # gameflix
-Interface inspirada no netflix
+Uma plataforma para assistir gameplay inspirada na interface do netflix.
